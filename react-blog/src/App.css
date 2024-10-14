@@ -1,4 +1,11 @@
 .App {
   text-align: center;
 }
+.home-bg{
+  background-color: #bc382e;
+}
+.create-btn{
+  background-color: #ff8000;
+  color: #fff9f3;
+}
 
